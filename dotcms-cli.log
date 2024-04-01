@@ -1,0 +1,13 @@
+2024-04-01 21:26:42,565 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: login
+2024-04-01 21:26:42,577 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] WARN  [com.dot.api.DefaultAuthenticationContextImpl] (main) No token found for user admin@dotcms.com
+2024-04-01 21:26:53,114 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: instance
+2024-04-01 21:27:01,919 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-04-01 21:27:01,922 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-04-01 21:27:01,923 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.com.WorkspaceManagerImpl] (main) looking up workspace, current path is : /Users/dcolina/dotcms-projects/white-spaces-test and parent is /Users/dcolina/dotcms-projects
+2024-04-01 21:27:01,926 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] WARN  [com.dot.api.DefaultAuthenticationContextImpl] (executor-thread-0) No token found for user admin@dotcms.com
+2024-04-01 21:27:02,689 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-04-01 21:27:02,690 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.com.WorkspaceManagerImpl] (main) Found workspace at: /Users/dcolina/dotcms-projects/white-spaces-test
+2024-04-01 21:27:04,465 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-04-01 21:27:04,465 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.com.WorkspaceManagerImpl] (main) Found workspace at: /Users/dcolina/dotcms-projects/white-spaces-test
+2024-04-01 21:27:10,050 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-04-01 21:27:10,051 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.com.WorkspaceManagerImpl] (main) Found workspace at: /Users/dcolina/dotcms-projects/white-spaces-test
